@@ -13,6 +13,10 @@ This project is a simple and elegant profile card designed to display user infor
 - HTML
 - CSS
 
+## Screenshots
+![Profile Card](https://github.com/shivamprasad1001/profile-Card/blob/main/image.png)
+![Full Profile](https://github.com/shivamprasad1001/profile-Card/blob/main/fullimg.png)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
